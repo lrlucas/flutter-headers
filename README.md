@@ -2,10 +2,10 @@
 Canvas para realizar diseños en flutter
 
 ## ScreenShot
-<img src="./screenshot/screenshot01.jpg" height="500em"/> <img src="./screenshot/screenshot02.jpg" height="500em"/>
-<img src="./screenshot/screenshot03.jpg" height="500em"/> <img src="./screenshot/screenshot04.jpg" height="500em"/>
-<img src="./screenshot/screenshot05.jpg" height="500em"/> <img src="./screenshot/screenshot06.jpg" height="500em"/>
-<img src="./screenshot/screenshot07.jpg" height="500em"/>
+<img src="./screenshot/Screenshot01.jpg" height="500em"/> <img src="./screenshot/Screenshot02.jpg" height="500em"/>
+<img src="./screenshot/Screenshot03.jpg" height="500em"/> <img src="./screenshot/Screenshot04.jpg" height="500em"/>
+<img src="./screenshot/Screenshot05.jpg" height="500em"/> <img src="./screenshot/Screenshot06.jpg" height="500em"/>
+<img src="./screenshot/Screenshot07.jpg" height="500em"/>
 
 ## Getting Started
 
