@@ -1,7 +1,11 @@
 # Custom Painter
 Canvas para realizar diseños en flutter
 
-A new Flutter application.
+## ScreenShot
+<img src="./screenshot/screenshot01.jpg" height="500em"/> <img src="./screenshot/screenshot02.jpg" height="500em"/>
+<img src="./screenshot/screenshot03.jpg" height="500em"/> <img src="./screenshot/screenshot04.jpg" height="500em"/>
+<img src="./screenshot/screenshot05.jpg" height="500em"/> <img src="./screenshot/screenshot06.jpg" height="500em"/>
+<img src="./screenshot/screenshot07.jpg" height="500em"/>
 
 ## Getting Started
 
